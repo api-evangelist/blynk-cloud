@@ -1,0 +1,32 @@
+aid: blynk-cloud
+name: Blynk-Cloud
+description: "Control IoT Devices from Blynk IoT Cloud"
+url: https://blynkapi.docs.apiary.io/#
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Blynk-Cloud
+    description: "Control IoT Devices from Blynk IoT Cloud"
+    humanURL: https://blynkapi.docs.apiary.io/#
+    baseURL: https://blynkapi.docs.apiary.io/#
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://blynkapi.docs.apiary.io/#
+common:
+  - type: Website
+    url: https://blynkapi.docs.apiary.io/#
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
