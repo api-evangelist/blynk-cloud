@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/blynk-clou
 name: Blynk-Cloud
 description: "Control IoT Devices from Blynk IoT Cloud"
 url: https://blynkapi.docs.apiary.io/#
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
