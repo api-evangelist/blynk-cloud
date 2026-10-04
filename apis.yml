@@ -39,7 +39,6 @@ apis:
   - name: Blynk-Cloud
     description: "Control IoT Devices from Blynk IoT Cloud"
     humanURL: https://blynkapi.docs.apiary.io/#
-    baseURL: https://blynkapi.docs.apiary.io/#
     tags:
       - Development
     properties:
